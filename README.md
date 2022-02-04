@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/PedroPedrassolli">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPedrassolli&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPedrassolli&layout=compact&langs_count=10&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPedrassolli&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
