@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! <img src="https://i.pinimg.com/originals/23/bd/bb/23bdbb2377322553edd9df0fd4b5d17b.gif" height="50">  My name is Pedro</h1>
+<h1 align="center">Hello there! <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="50">  My name is Pedro</h1>
 
 <h3 align="center">A passionate Full-Stack Developer 🚀❤:computer:</h3>
 
