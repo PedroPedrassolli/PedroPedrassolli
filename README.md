@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="50">  My name is Pedro</h1>
 
-<h3 align="center">A passionate Full-Stack Developer 🚀❤:computer:</h3>
+<h3 align="center">A passionate Full-Stack Developer 🚀❤</h3>
 
 <div align="center">
   <a href="https://github.com/PedroPedrassolli">
