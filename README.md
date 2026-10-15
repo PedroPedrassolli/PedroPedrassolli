@@ -1,33 +1,55 @@
-<h1 align="center">Hello there! <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="50">  My name is Pedro</h1>
+<h1 align="center">Hey, I'm Pedro 👋</h1>
 
-<h3 align="center">A passionate Full-Stack Developer 🚀❤</h3>
+<h3 align="center">Ruby on Rails Developer · Backend-focused Full-Stack Developer</h3>
 
-<div align="center">
-  <a href="https://github.com/PedroPedrassolli">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPedrassolli&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroPedrassolli&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
- ##
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-	<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-	<a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-	<a href="https://vuejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" height="40" width="40" ></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<p align="center">
+  I build maintainable web applications, work with legacy systems and integrations, and use <strong>Ruby on Rails</strong> as my main stack.
 </p>
 
-  ##
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-pedrassolli-97b636162">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:pedropedrassolli@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-BB9AF7?style=for-the-badge&logo=microsoftoutlook&logoColor=1A1B26" alt="Send me an email" />
+  </a>
+  <a href="https://github.com/pedro-emottasistemas">
+    <img src="https://img.shields.io/badge/Work_GitHub-pedro--emottasistemas-565F89?style=for-the-badge&logo=github&logoColor=white" alt="Professional GitHub account" />
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+About me
+- Backend: Ruby, Ruby on Rails, REST APIs, and system integrations.
+- Testing: RSpec.
+- Frontend: React, JavaScript, HTML, and CSS.
+- Data: SQL Server and Redis.
+Tech stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/RSpec-B31B1B?style=for-the-badge&logoColor=white" alt="RSpec" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-<p align="left">
-	<div>
-		<a href="https://www.linkedin.com/in/pedro-pedrassolli-97b636162" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-		<a href = "mailto:pedropedrassolli@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-	</div>
+GitHub overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPedrassolli&amp;theme=dracula" alt="GitHub activity overview for PedroPedrassolli" width="100%" />
+</p>
+
+
+Professional GitHub activity
+My work-related GitHub activity is associated with the separate account below.
+<p align="center">
+  <a href="https://github.com/pedro-emottasistemas">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-emottasistemas&amp;theme=dracula" alt="Activity overview for the professional GitHub account pedro-emottasistemas" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Personal and professional accounts are shown separately; this does not merge their contribution graphs on GitHub itself.</sub>
 </p>
