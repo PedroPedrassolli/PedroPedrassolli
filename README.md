@@ -6,14 +6,20 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/pedro-pedrassolli-97b636162">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:pedropedrassolli@outlook.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/pedro-emottasistemas">Work GitHub</a></p>
 
-Tech stack
+---
+
+## Tech stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,react,js,html,css,postgres,mysql,redis&amp;perline=9&amp;theme=dark" alt="Ruby, Ruby on Rails, React, JavaScript, HTML, CSS, PostgreSQL, MySQL, and Redis" />
 </p>
 
 <p align="center"><sub>Automated testing with RSpec · Relational databases: PostgreSQL and MySQL</sub></p>
 
-GitHub activity
+---
+
+## GitHub activity
+
 <p><strong>Personal account</strong></p>
 
 <p align="center">
