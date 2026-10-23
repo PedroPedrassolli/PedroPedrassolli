@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://pedrassolli.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://pedrassolli.vercel.app/?lang=en"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://pedrassolli.vercel.app/resume-pedro-pedrassolli.pdf">Résumé (PDF)</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/pedro-pedrassolli-97b636162">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:pedropedrassolli@outlook.com">Email</a> &nbsp;·&nbsp;
   <a href="https://github.com/pedro-emottasistemas">Work GitHub</a>
