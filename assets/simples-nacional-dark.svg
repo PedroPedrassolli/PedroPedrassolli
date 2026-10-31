@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Calculadora do Simples Nacional</title>
+  <desc id="descricao">Effective tax rate and estimated DAS for Brazil's Simples Nacional, with every step of the math explained and the law behind it.</desc>
+  <style>.sans{font-family:Geist, Inter, 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif}.mono{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}.cursor{animation:piscar 1.1s steps(1) infinite}@keyframes piscar{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+  <defs><linearGradient id="simples-marca" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b9a1ff"/><stop offset="1" stop-color="#ff8fb1"/></linearGradient></defs>
+  <defs>
+    <clipPath id="simples-corte"><rect width="600" height="330" rx="18"/></clipPath>
+    <pattern id="simples-grade" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="rgba(255,255,255,0.05)"/>
+    </pattern>
+    <radialGradient id="simples-luz1" cx="0.12" cy="0" r="0.75">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="simples-luz2" cx="0.95" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#ff6b96" stop-opacity="0.21"/>
+      <stop offset="1" stop-color="#ff6b96" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#simples-corte)">
+    <rect width="600" height="330" fill="#101019"/>
+    <rect width="600" height="330" fill="url(#simples-grade)"/>
+    <rect width="600" height="330" fill="url(#simples-luz1)"/>
+    <rect width="600" height="330" fill="url(#simples-luz2)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="329" rx="17.5" fill="none" stroke="rgba(255,255,255,0.08)"/>
+  <text x="32" y="46" class="mono" font-size="13.5" fill="#b9a1ff">github.com/PedroPedrassolli/simples-nacional  ↗</text>
+  <text x="32" y="90" class="sans" font-size="30" font-weight="700" letter-spacing="-0.5" fill="#ededf3">Calculadora do Simples Nacional</text>
+  <text x="32" y="126" class="sans" font-size="18" fill="#a3a3b8">Effective tax rate and estimated DAS for</text>
+  <text x="32" y="152" class="sans" font-size="18" fill="#a3a3b8">Brazil's Simples Nacional, with every step of</text>
+  <text x="32" y="178" class="sans" font-size="18" fill="#a3a3b8">the math explained and the law behind it.</text>
+  <rect x="32" y="212" width="58" height="28" rx="14" fill="rgba(185,161,255,0.10)" stroke="rgba(185,161,255,0.32)"/><text x="60.8" y="231" text-anchor="middle" class="mono" font-size="14" fill="#b9a1ff">Ruby</text>
+  <rect x="97.6" y="212" width="66" height="28" rx="14" fill="rgba(185,161,255,0.10)" stroke="rgba(185,161,255,0.32)"/><text x="130.6" y="231" text-anchor="middle" class="mono" font-size="14" fill="#b9a1ff">React</text>
+  <rect x="171.6" y="212" width="158" height="28" rx="14" fill="rgba(185,161,255,0.10)" stroke="rgba(185,161,255,0.32)"/><text x="250.8" y="231" text-anchor="middle" class="mono" font-size="14" fill="#b9a1ff">Vercel Functions</text>
+  <text x="32" y="302" class="mono" font-size="14" xml:space="preserve"><tspan fill="#7d7d94"></tspan><tspan fill="#ededf3">R$ 40.000,00 × 9,9720% = R$ 3.988,80</tspan></text>
+</svg>

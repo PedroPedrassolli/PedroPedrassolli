@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Portfolio</title>
+  <desc id="descricao">Rails 8 API and React 19 on Vercel, bilingual (PT and EN), with content in YAML. Minitest at 100% coverage, Playwright and Lighthouse 100 for accessibility and SEO.</desc>
+  <style>.sans{font-family:Geist, Inter, 'Segoe UI', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial, sans-serif}.mono{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}.cursor{animation:piscar 1.1s steps(1) infinite}@keyframes piscar{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+  <defs><linearGradient id="portfolio-marca" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d28d9"/><stop offset="1" stop-color="#d6205b"/></linearGradient></defs>
+  <defs>
+    <clipPath id="portfolio-corte"><rect width="1200" height="250" rx="18"/></clipPath>
+    <pattern id="portfolio-grade" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="rgba(10,10,30,0.05)"/>
+    </pattern>
+    <radialGradient id="portfolio-luz1" cx="0.12" cy="0" r="0.75">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="portfolio-luz2" cx="0.95" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#fb7aa5" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#fb7aa5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#portfolio-corte)">
+    <rect width="1200" height="250" fill="#ffffff"/>
+    <rect width="1200" height="250" fill="url(#portfolio-grade)"/>
+    <rect width="1200" height="250" fill="url(#portfolio-luz1)"/>
+    <rect width="1200" height="250" fill="url(#portfolio-luz2)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="249" rx="17.5" fill="none" stroke="rgba(10,10,30,0.10)"/>
+  <text x="32" y="46" class="mono" font-size="13.5" fill="#6d28d9">pedrassolli.vercel.app  ↗</text>
+  <text x="32" y="90" class="sans" font-size="30" font-weight="700" letter-spacing="-0.5" fill="#0f0f1a">Portfolio</text>
+  <text x="32" y="126" class="sans" font-size="18" fill="#4f4f63">Rails 8 API and React 19 on Vercel, bilingual (PT and EN), with content in YAML.</text>
+  <text x="32" y="152" class="sans" font-size="18" fill="#4f4f63">Minitest at 100% coverage, Playwright and Lighthouse 100 for accessibility and SEO.</text>
+  <rect x="32" y="186" width="83" height="28" rx="14" fill="rgba(109,40,217,0.07)" stroke="rgba(109,40,217,0.30)"/><text x="73.4" y="205" text-anchor="middle" class="mono" font-size="14" fill="#6d28d9">Rails 8</text>
+  <rect x="122.80000000000001" y="186" width="91" height="28" rx="14" fill="rgba(109,40,217,0.07)" stroke="rgba(109,40,217,0.30)"/><text x="168.4" y="205" text-anchor="middle" class="mono" font-size="14" fill="#6d28d9">React 19</text>
+  <rect x="222.0" y="186" width="58" height="28" rx="14" fill="rgba(109,40,217,0.07)" stroke="rgba(109,40,217,0.30)"/><text x="250.8" y="205" text-anchor="middle" class="mono" font-size="14" fill="#6d28d9">Vite</text>
+  <rect x="287.6" y="186" width="108" height="28" rx="14" fill="rgba(109,40,217,0.07)" stroke="rgba(109,40,217,0.30)"/><text x="341.6" y="205" text-anchor="middle" class="mono" font-size="14" fill="#6d28d9">Playwright</text>
+  <rect x="403.6" y="186" width="74" height="28" rx="14" fill="rgba(109,40,217,0.07)" stroke="rgba(109,40,217,0.30)"/><text x="440.8" y="205" text-anchor="middle" class="mono" font-size="14" fill="#6d28d9">Vercel</text>
+  <rect x="1028" y="55" width="140" height="140" rx="34" fill="url(#portfolio-marca)"/><text x="1098" y="147" text-anchor="middle" class="mono" font-size="58" font-weight="700" fill="#ffffff">pp</text>
+</svg>
